@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Sobre mim
-Atuo como **suporte técnico (help desk)**, prestando atendimento ao cliente e auxiliando na resolução de problemas.
+Sou formada em Análise e Desenvolvimento de Sistemas e atuo como **suporte técnico (help desk)**, prestando atendimento ao cliente e auxiliando na resolução de problemas.
 Além disso, trabalho na área de banco de dados, com foco em Firebird.
 Sou apaixonada por tecnologia e desenvolvimento, e atualmente estou expandindo meus conhecimentos em programação.  
 
